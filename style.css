@@ -1,0 +1,24 @@
+body{
+    background-color: sandybrown;
+    text-align: center;
+}
+header{
+    color: rgba(14, 20, 1, 0.671);
+    background-color: rgb(96, 244, 187);
+    text-align: center;
+    font-size: 208%;
+    display: inline-block;
+    width: 64%;
+    padding: 44px;
+    border-style: double;
+    border-color: blue;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+#mountian-image{
+    width: 70%;
+    height: 15%;
+}
